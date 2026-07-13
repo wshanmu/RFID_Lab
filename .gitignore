@@ -1,0 +1,5 @@
+__pycache__
+*vscode
+/logs
+*.pptx
+touch_detector_gui_instructor.py
